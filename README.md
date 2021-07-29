@@ -4,7 +4,7 @@
 
  - This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-View the solidity file [here](Contracts/AssociateProfitSPlitter.sol).
+View the solidity file [here](Contracts/AssociateProfitSplitter.sol).
 
 Rinkeby address of the deployed contract:
 
