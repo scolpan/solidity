@@ -1,4 +1,4 @@
-# solidity-homework
+# solidity
 
 ## AssociateProfitSplitter 
 
